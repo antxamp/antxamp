@@ -8,7 +8,7 @@ I enjoy working with different technologies & platforms and my current favorite 
 
 #### Presently,
 - 🔭 I’m currently working on something secret! 🔐
-- 🌱 I’m currently learning Microsoft PowerBi 💻
+- 🌱 I’m currently learning more about Microsoft PowerBI 💻
 - 🤔 I’m looking for help to find the best movie ever 🎥
 - ⚡ Fun fact: I ❤️ photography 📸
 
