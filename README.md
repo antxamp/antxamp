@@ -7,7 +7,7 @@ I enjoy working with different technologies & platforms and my current favorite 
 - 👍 Tableau
 
 #### Presently,
-- 🔭 I’m currently working on expanding my program languages 📖
+- 🔭 I’m currently working on expanding my program languages 📖 
 - 🌱 I’m currently learning more about Microsoft PowerBI 💻
 - 🤔 I’m looking for help to find the best movie ever 🎥
 - ⚡ Fun fact: I ❤️ photography 📸
